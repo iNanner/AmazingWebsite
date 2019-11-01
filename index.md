@@ -20,4 +20,4 @@ It is visually appealling to begin your webpage with a heading, followed byt som
 
 Here two images. Don't forget some alt text for better accessibility!
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
-![Image of Hannah and her dog!](images/PictureHER.png)
+![Image of Hannah and her dog!](images/PictureHER.PNG)
