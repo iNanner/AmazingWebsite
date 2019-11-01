@@ -8,6 +8,8 @@ It is visually appealling to begin your webpage with a heading, followed byt som
 
 **bold**
 *italics*
+***both bold and italic***
+
 
 1. List Item 1
 2. List Item 2
